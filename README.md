@@ -12,6 +12,6 @@
 3. Разработка интерфейса приложения с использованием UIKit
 4. Хорошо поставленная речь - умение делать призентации
 
-![Img](img/img.jpg)
+![Img](https://github.com/drewkuznetsov/git-diplom/blob/master/img/img.JPG)
 
 
